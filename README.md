@@ -983,8 +983,11 @@ char *((*p)(int))
 &emsp;&emsp;最后祝所有看到这篇文章的小伙伴，在秋招中都可以拿到心仪的offer。
 
 
+&emsp;&emsp;扫描下方二维码关注我的公众号【嵌入式与Linux那些事】，回复【电子书】领取嵌入式1000+本电子书。回复【秋招大礼包】领取嵌入式软件笔试面试知识点总结，大厂笔试题目等。
 
-**&emsp;&emsp;养成习惯，先赞后看！如果觉得写的不错，欢迎关注，点赞，在看，转发，谢谢！**
+![动态_扫码关注公众号](https://gitee.com/dongxingbo/Picture/raw/master/Wechat/%E5%8A%A8%E6%80%81%E5%BC%95%E5%AF%BC%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%B7.gif)
+
+![动态_扫码加好友](https://gitee.com/dongxingbo/Picture/raw/master/Wechat/%E5%8A%A8%E6%80%81%E5%BC%95%E5%AF%BC%E5%8A%A0%E5%A5%BD%E5%8F%8B.gif)
 
 
 
