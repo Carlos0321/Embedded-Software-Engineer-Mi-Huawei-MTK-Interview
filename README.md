@@ -984,6 +984,7 @@ char *((*p)(int))
 
 
 &emsp;&emsp;扫描下方二维码关注我的公众号【嵌入式与Linux那些事】，回复【电子书】领取嵌入式1000+本电子书。回复【秋招大礼包】领取嵌入式软件笔试面试知识点总结，大厂笔试题目等。
+[我的CSDN](https://blog.csdn.net/qq_16933601?spm=1000.2115.3001.5343)
 
 ![动态_扫码关注公众号](https://gitee.com/dongxingbo/Picture/raw/master/Wechat/%E5%8A%A8%E6%80%81%E5%BC%95%E5%AF%BC%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%B7.gif)
 
